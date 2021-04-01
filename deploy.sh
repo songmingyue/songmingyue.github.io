@@ -22,3 +22,5 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 cd -
+# 如果是发布到自定义域名
+# echo 'www.example.com' > CNAME
