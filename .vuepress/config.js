@@ -22,7 +22,7 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "Home",
+        "text": "周报",
         "link": "/",
         "icon": "reco-home"
       },
@@ -47,7 +47,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/songmingyue",
             "icon": "reco-github"
           }
         ]
@@ -87,7 +87,7 @@ module.exports = {
       }
     ],
     "logo": "/logo.png",
-    "search": true,
+    "search": false,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "",
