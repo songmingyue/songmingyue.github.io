@@ -107,7 +107,7 @@ module.exports = {
           welcome: '马什么梅',
           home: '马东什么',
           theme: '什么冬梅',
-          close: '别不要我嘛'
+          close: '马东真没了'
         },
         width:140,
         height:252
